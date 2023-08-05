@@ -1,12 +1,6 @@
 """"""  		  	   		  	  			  		 			     			  	 
 """  		  	   		  	  			  		 			     			  	 
-A simple wrapper for linear regression.  (c) 2015 Tucker Balch  		  	   		  	  			  		 			     			  	 
-  		  	   		  	  			  		 			     			  	 
-Copyright 2018, Georgia Institute of Technology (Georgia Tech)  		  	   		  	  			  		 			     			  	 
-Atlanta, Georgia 30332  		  	   		  	  			  		 			     			  	 
-All Rights Reserved  		  	   		  	  			  		 			     			  	 
-  		  	   		  	  			  		 			     			  	 
-Template code for CS 4646/7646  		  	   		  	  			  		 			     			  	 
+  	   		  	  			  		 			     			  	 
   		  	   		  	  			  		 			     			  	 
 Georgia Tech asserts copyright ownership of this template and all derivative  		  	   		  	  			  		 			     			  	 
 works, including solutions to the projects assigned in this course. Students  		  	   		  	  			  		 			     			  	 
